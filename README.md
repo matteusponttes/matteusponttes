@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Mateus 👋
 
-<!--
-**matteusponttes/matteusponttes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on middleware support
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to collaborate on cool stuffs
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about anything
+- 📫 How to reach me: matteus.ponttes@gmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: i'm a newbie
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This will be updated after i learn how to customize it!
